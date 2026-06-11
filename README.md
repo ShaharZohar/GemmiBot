@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/yourusername/GemmiBot.git](https://github.com/yourusername/GemmiBot.git)
+git clone [https://github.com/ShaharZohar/GemmiBot.git](https://github.com/yourusername/GemmiBot.git)
 cd GemmiBot
 
 2. Set up a Virtual Environment (Recommended)
